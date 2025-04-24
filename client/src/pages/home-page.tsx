@@ -149,7 +149,7 @@ export default function HomePage() {
                 <div className="flex items-center mb-4">
                   {/* <img className="w-12 h-12 rounded-full object-cover mr-4" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80" alt="Testimonial author" /> */}
                   <div>
-                    <h4 className="font-heading font-bold">Anisha Sapkota</h4>
+                    <h4 className="font-heading font-bold">Tupesh Ghimire</h4>
                     <div className="flex text-yellow-500">
                       <i className="fas fa-star"></i>
                       <i className="fas fa-star"></i>
@@ -167,7 +167,7 @@ export default function HomePage() {
                 <div className="flex items-center mb-4">
                   {/* <img className="w-12 h-12 rounded-full object-cover mr-4" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80" alt="Testimonial author" /> */}
                   <div>
-                    <h4 className="font-heading font-bold">Laxmi Sharma</h4>
+                    <h4 className="font-heading font-bold">Bishal Mishra</h4>
                     <div className="flex text-yellow-500">
                       <i className="fas fa-star"></i>
                       <i className="fas fa-star"></i>
@@ -185,7 +185,7 @@ export default function HomePage() {
                 <div className="flex items-center mb-4">
                   {/* <img className="w-12 h-12 rounded-full object-cover mr-4" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80" alt="Testimonial author" /> */}
                   <div>
-                    <h4 className="font-heading font-bold">Muna Tamang</h4>
+                    <h4 className="font-heading font-bold">Bimal Diyal</h4>
                     <div className="flex text-yellow-500">
                       <i className="fas fa-star"></i>
                       <i className="fas fa-star"></i>
